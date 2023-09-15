@@ -1,5 +1,14 @@
+body{
+
+    margin: 14px;
+}
+
 .header{
 display: flex;
+justify-content: space-between;
+background-color: aqua;
+height: 75px;
+border-radius: 9px;
 }
 
 .header-logo{
@@ -12,5 +21,12 @@ display: flex;
 }
 
 .user-info{
+
+}
+.footer{
+
+height: 200px;
+background-color: #4e4b4b;
+border-radius: 9px;
 
 }
